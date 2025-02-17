@@ -14,4 +14,4 @@ Close: alt-f4, (yep when I did this project I forget about it).<br/>
 Find and take all hiden fruits (5)
 
 <h2>Image</h2>
-![Fruits Challenge](https://github.com/user-attachments/assets/d997ba93-b368-4915-bb0c-a836dcb2d656)
+![Fruits Challenge](Images/Fruits_Challenge.jpg)
